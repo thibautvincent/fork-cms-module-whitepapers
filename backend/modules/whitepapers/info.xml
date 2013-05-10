@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>whitepapers</name>
+	<version>1.1.1</version>
+	<requirements>
+		<minimum_version>3.5.0</minimum_version>
+	</requirements>
+	<description><![CDATA[
+		This is the whitepaper module. It allows you to upload a whitepaper and keep track of how many times
+		it is downloaded.
+
+		It is also possible to choose the way to receive the file. The options are:
+		- download: the user will enter some credentials and after validation he will be allowed to download the file.
+		- send by email: the user will enter some credentials and after validation the file will be send to the specified email.
+	]]></description>
+	<authors>
+		<author>
+			<name><![CDATA[Jelmer Snoeck]]></name>
+			<url><![CDATA[http://www.jelmersnoeck.com]]></url>
+		</author>
+	</authors>
+	<events>
+		<event application="frontend" name="after_download"><![CDATA[Triggered when a whitepaper is downloaded.]]></event>
+		<event application="backend" name="after_add"><![CDATA[Triggered when a whitepaper is added.]]></event>
+		<event application="backend" name="after_delete"><![CDATA[Triggered when a whitepaper is deleted.]]></event>
+		<event application="backend" name="after_edit"><![CDATA[Triggered when a whtiepaper is edited.]]></event>
+		<event application="backend" name="after_saved_settings"><![CDATA[Triggered when the settings are saved.]]></event>
+	</events>
+</module>

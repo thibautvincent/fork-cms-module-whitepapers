@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<backend>
+		<whitepapers>
+			<item type="label" name="DownloadedOn">
+				<translation language="nl"><![CDATA[gedownload op]]></translation>
+				<translation language="en"><![CDATA[downloaded on]]></translation>
+			</item>
+			<item type="label" name="DownloadFile">
+				<translation language="nl"><![CDATA[bestand downloaden]]></translation>
+				<translation language="en"><![CDATA[download file]]></translation>
+			</item>
+			<item type="label" name="Downloads">
+				<translation language="nl"><![CDATA[downloads]]></translation>
+				<translation language="en"><![CDATA[downloads]]></translation>
+			</item>
+			<item type="label" name="Information">
+				<translation language="nl"><![CDATA[informatie over de download]]></translation>
+				<translation language="en"><![CDATA[download information]]></translation>
+			</item>
+			<item type="label" name="NumDownloads">
+				<translation language="nl"><![CDATA[aantal keer gedownload]]></translation>
+				<translation language="en"><![CDATA[number of times downloaded]]></translation>
+			</item>
+			<item type="label" name="Phonenumber">
+				<translation language="nl"><![CDATA[telefoonnummer]]></translation>
+				<translation language="en"><![CDATA[phonenumber]]></translation>
+			</item>
+			<item type="message" name="NumItemsInRecentWhitepapers">
+				<translation language="nl"><![CDATA[Aantal items in recente whitepapers widget]]></translation>
+				<translation language="en"><![CDATA[Number of items in recent whitepapers widget]]></translation>
+			</item>
+			<item type="message" name="NumItemsInRelatedWhitepapers">
+				<translation language="nl"><![CDATA[Aantal items in gerelateerde whitepapers widget]]></translation>
+				<translation language="en"><![CDATA[Number of items in related whitepapers widget]]></translation>
+			</item>
+			<item type="message" name="SendInMail">
+				<translation language="nl"><![CDATA[Verzend de whitepapers als email]]></translation>
+				<translation language="en"><![CDATA[Send the whitepapers as email]]></translation>
+			</item>
+			<item type="message" name="WhitepaperNotDownloaded">
+				<translation language="nl"><![CDATA[Deze whitepaper werd nog niet gedownload.]]></translation>
+				<translation language="en"><![CDATA[This whitepaper hasn't been downloaded yet.]]></translation>
+			</item>
+			<item type="message" name="SubmitAfterDownload">
+				<translation language="nl"><![CDATA[Whitepaper downloaden zonder gegevens op te vragen.]]></translation>
+				<translation language="en"><![CDATA[Download the whitepaper without requesting information.]]></translation>
+			</item>
+		</whitepapers>
+		<core>
+			<item type="label" name="Whitepapers">
+				<translation language="nl"><![CDATA[whitepapers]]></translation>
+				<translation language="en"><![CDATA[whitepapers]]></translation>
+			</item>
+		</core>
+		<pages>
+			<item type="label" name="Detail">
+				<translation language="nl"><![CDATA[detail pagina]]></translation>
+				<translation language="en"><![CDATA[detail page]]></translation>
+			</item>
+			<item type="label" name="RecentWhitepapers">
+				<translation language="nl"><![CDATA[recente whitepapers]]></translation>
+				<translation language="en"><![CDATA[recent whitepapers]]></translation>
+			</item>
+			<item type="label" name="RelatedWhitepapers">
+				<translation language="nl"><![CDATA[gerelateerde whitepapers]]></translation>
+				<translation language="en"><![CDATA[related whitepapers]]></translation>
+			</item>
+		</pages>
+	</backend>
+	<frontend>
+		<core>
+			<item type="action" name="Download">
+				<translation language="nl"><![CDATA[download]]></translation>
+				<translation language="en"><![CDATA[download]]></translation>
+			</item>
+			<item type="error" name="FileDownloadFailed">
+				<translation language="nl"><![CDATA[Er ging iets mis bij het downloaden van het bestand. Gelieve contact op te nemen zodat we dit probleem kunnen oplossen.]]></translation>
+				<translation language="en"><![CDATA[Something went wrong while downloading the file. Please contact us so we can resolve this issue.]]></translation>
+			</item>
+			<item type="label" name="AllWhitepapers">
+				<translation language="nl"><![CDATA[alle whitepapers]]></translation>
+				<translation language="en"><![CDATA[all whitepapers]]></translation>
+			</item>
+			<item type="label" name="Download">
+				<translation language="nl"><![CDATA[download]]></translation>
+				<translation language="en"><![CDATA[download]]></translation>
+			</item>
+			<item type="label" name="DownloadWhitepaper">
+				<translation language="nl"><![CDATA[download deze whitepaper]]></translation>
+				<translation language="en"><![CDATA[download this whitepaper]]></translation>
+			</item>
+			<item type="label" name="Phonenumber">
+				<translation language="nl"><![CDATA[telefoonnummer]]></translation>
+				<translation language="en"><![CDATA[phonenumber]]></translation>
+			</item>
+			<item type="label" name="ReadMoreAndDownload">
+				<translation language="nl"><![CDATA[lees meer en download whitepaper]]></translation>
+				<translation language="en"><![CDATA[read more and download whitepaper]]></translation>
+			</item>
+			<item type="label" name="RecentWhitepapers">
+				<translation language="nl"><![CDATA[recente whitepapers]]></translation>
+				<translation language="en"><![CDATA[recent whitepapers]]></translation>
+			</item>
+			<item type="label" name="RelatedWhitepapers">
+				<translation language="nl"><![CDATA[gerelateerde whitepapers]]></translation>
+				<translation language="en"><![CDATA[related whitepapers]]></translation>
+			</item>
+			<item type="message" name="DownloadWhitepaperInfo">
+				<translation language="nl"><![CDATA[Voor je deze whitepaper kan downloaden dien je je gegevens in te vullen.]]></translation>
+				<translation language="en"><![CDATA[Before you can download this whitepaper, please leave your info.]]></translation>
+			</item>
+			<item type="message" name="InformationSubmitted">
+				<translation language="nl"><![CDATA[We hebben uw gegevens goed ontvangen.]]></translation>
+				<translation language="en"><![CDATA[We've received your information well.]]></translation>
+			</item>
+			<item type="message" name="KeepInformed">
+				<translation language="nl"><![CDATA[Ik wil op de hoogte blijven voor dit onderwerp.]]></translation>
+				<translation language="en"><![CDATA[I want to stay up to date about this subject.]]></translation>
+			</item>
+			<item type="message" name="NoWhitepapers">
+				<translation language="nl"><![CDATA[Er zijn nog geen whitepapers op dit moment.]]></translation>
+				<translation language="en"><![CDATA[There are no whitepapers yet.]]></translation>
+			</item>
+			<item type="message" name="WhitepaperDownloaded">
+				<translation language="nl"><![CDATA[We hebben uw informatie goed ontvangen. Uw download zal zo meteen starten. Indien dit niet gebeurt kunt u <a href="%1$s">hier</a> klikken.]]></translation>
+				<translation language="en"><![CDATA[We've received you're info well. The whitepaper will start downloading soon. If this doesn't happen, you can download it <a href="%1$s">here</a>.]]></translation>
+			</item>
+			<item type="message" name="WhitepaperStartDownloaded">
+				<translation language="nl"><![CDATA[Uw download zal zo meteen starten. Indien dit niet gebeurt kunt u <a href="%1$s">hier</a> klikken.]]></translation>
+				<translation language="en"><![CDATA[The whitepaper will start downloading soon. If this doesn't happen, you can download it <a href="%1$s">here</a>.]]></translation>
+			</item>
+			<item type="message" name="WhitepaperEmailAttachment">
+				<translation language="nl"><![CDATA[<p>In bijlage kunt u de whitepaper van "%1$s" vinden.</p><p>Meer informatie over deze whitepaper kunt u <a href="%2$s">hier</a> bekijken.</p>]]></translation>
+				<translation language="en"><![CDATA[<p>You can find the whitepaper for "%1$s" as attachment for this email.</p><p>More information about this whitepaper is available <a href="%2$s">here</a>.</p>]]></translation>
+			</item>
+		</core>
+	</frontend>
+</locale>
